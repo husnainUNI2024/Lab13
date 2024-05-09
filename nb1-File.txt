@@ -1,0 +1,7 @@
+in this file I wanna add my second year marks ;
+English = 73
+URdu = 62
+Maths = 70
+chemistry = 60
+physics =45
+pak studies = 36
